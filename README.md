@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FloraBBN2/](https://github.com/FloraBBN2/)
 
-- 📫 How to reach me **flora.babin@outlook.fr**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
